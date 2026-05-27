@@ -734,3 +734,16 @@ text-decoration:none;
 color: var(--accent);
 
 }
+
+.project-card a{
+
+color: var(--text);
+text-decoration:none;
+
+}
+
+.timeline-card a:hover{
+
+color: var(--accent);
+
+}
