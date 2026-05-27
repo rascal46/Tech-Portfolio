@@ -742,6 +742,13 @@ text-decoration:none;
 
 }
 
+.timeline-card a{
+
+color: var(--text);
+text-decoration:none;
+
+}
+
 .timeline-card a:hover{
 
 color: var(--accent);
