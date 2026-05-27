@@ -721,3 +721,16 @@ cursor:pointer;
 transform:translateY(-5px);
 
 }
+
+.project-card a{
+
+color: var(--text);
+text-decoration:none;
+
+}
+
+.project-card a:hover{
+
+color: var(--accent);
+
+}
