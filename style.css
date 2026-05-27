@@ -702,3 +702,22 @@ transition:.3s;
 transform:translateY(-8px) scale(1.1);
 
 }
+
+.contact-shortcut{
+
+text-decoration:none;
+display:inline-block;
+
+}
+
+.contact-shortcut .social-icons{
+
+cursor:pointer;
+
+}
+
+.contact-shortcut .social-icons:hover{
+
+transform:translateY(-5px);
+
+}
